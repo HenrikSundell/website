@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import { MdFingerprint } from "react-icons/md";
+import { VscCode } from "react-icons/vsc";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Button } from "./Button";
 import "./Navbar.css";
@@ -27,8 +27,8 @@ function Navbar() {
       <div className="navbar">
         <div className="navbar-container container">
           <Link className="navbar-logo">
-            <MdFingerprint className="navbar-icon" />
-            LAVISH
+            <VscCode className="navbar-icon" />
+            Sundell
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             {click ? <FaTimes /> : <FaBars />}
