@@ -41,12 +41,17 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link to="/services" className="nav-links">
-                Services
+                Projects
               </Link>
             </li>
             <li className="nav-item">
               <Link to="/products" className="nav-links">
-                Products
+                Resume
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/products" className="nav-links">
+                Contact
               </Link>
             </li>
             <li className="nav-btn">
