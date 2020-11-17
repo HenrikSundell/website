@@ -1,20 +1,19 @@
 .about-box {
-    background-color: #ffff;
-    padding: 2em;
-    margin-top: 5em;
-    min-width: 22em;
-    max-width: 40em;
-    border-radius: 10px;
-    box-shadow: 2px 4px #888888;
+  background-color: #ffff;
+  padding: 2em;
+  margin-top: 5em;
+  min-width: 22em;
+  max-width: 40em;
+  border-radius: 10px;
+  box-shadow: 2px 4px #888888;
 }
 .about-text {
-    font: "helvetica";
+  font: "helvetica";
 }
-.container{
-    display:inline-flex;
-    flex-wrap:wrap;
-   
-  }
-  .flex-direction{
-    flex-direction:row;
-  }
+.container {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.flex-direction {
+  flex-direction: row;
+}

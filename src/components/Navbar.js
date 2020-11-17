@@ -24,7 +24,7 @@ function Navbar() {
   useEffect(() => {
     showButton();
   }, []);
-  console.log(button)
+  console.log(button);
   window.addEventListener("resize", showButton);
 
   return (
@@ -46,12 +46,20 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/resume" className="nav-links" onClick={closeMobileMenu}>
+                <Link
+                  to="/resume"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                >
                   Resume
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/contact" className="nav-links" onClick={closeMobileMenu}>
+                <Link
+                  to="/contact"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                >
                   Contact
                 </Link>
               </li>

@@ -3,7 +3,8 @@ export const homeObjOne = {
   lightText: true,
   topLine: "Presenting:",
   headline: "Henrik Sundell",
-  description: "Unlimited coding skills and good loooks (parempi ku caisa kaikes). Inka on kiva.",
+  description:
+    "Unlimited coding skills and good loooks (parempi ku caisa kaikes). Inka on kiva.",
   buttonLable: "Get Started",
   imgStart: "",
   img: "images/me.jpg",
