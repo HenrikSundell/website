@@ -1,8 +1,10 @@
+import { render } from "@testing-library/react";
 import React from "react";
 import { AiFillGithub, AiFillLinkedin, AiFillMail } from "react-icons/ai";
 import "./ContactSection.css";
 
 function ContactSection() {
+  render();
   return (
     <section className="about-box">
       <div className="contact-block">
