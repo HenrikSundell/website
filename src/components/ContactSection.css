@@ -1,0 +1,21 @@
+.about-box {
+  background-color: #ffff;
+  padding: 2em;
+  margin-top: 5em;
+  min-width: 22em;
+  max-width: 40em;
+  border-radius: 10px;
+  box-shadow: 2px 4px #888888;
+}
+
+.contact-block {
+  margin-bottom: 2em;
+  font-size: 2em;
+}
+
+.contact-link {
+  color: black;
+}
+.icon-text {
+  padding-left: 3em;
+}
