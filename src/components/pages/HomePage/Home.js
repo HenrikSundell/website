@@ -6,11 +6,11 @@ import AboutSection from "../../AboutSection";
 
 function Home() {
   return (
-    <div class="container flex-direction">
-      <div class="intro">
+    <div className="container flex-direction">
+      <div className="intro">
         <InfoSection {...homeObjOne} />
       </div>
-      <div class="content">
+      <div className="content">
         <AboutSection></AboutSection>
       </div>
     </div>

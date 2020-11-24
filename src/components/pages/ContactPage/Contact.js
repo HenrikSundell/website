@@ -5,11 +5,11 @@ import ContactSection from "../../ContactSection";
 
 function Home() {
   return (
-    <div class="container flex-direction">
-      <div class="iSntro">
+    <div className="container flex-direction">
+      <div className="intro">
         <InfoSection />
       </div>
-      <div class="content">
+      <div className="content">
         <ContactSection></ContactSection>
       </div>
     </div>
