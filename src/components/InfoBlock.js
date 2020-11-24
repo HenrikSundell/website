@@ -34,16 +34,11 @@ function InfoSection({
         <section className="side_bar_bio">
           <h2 className="bioHeading">About</h2>
           <p>
-            Hi, I&apos;m Henrik. I am a computer scinence studnet at
-            <a href="https://aalto.fi/">Aalto university</a>
-            päläpäläpäldepl moi moimoi deanndanndawnn ndasnndsa ndnsn nsdnsdn
-            nenwoewo oewoewom kewjejdod ndweiniew.
+            Hi, I&apos;m Henrik. I am a computer science student at
+            <a href="https://aalto.fi/"> Aalto university</a> finishing my
+            bachelor this spring. I have experience in web development, as you
+            might notice mostly backend. :)
           </p>
-          <ul className="actions">
-            <Link to="/resume" className="button">
-              Learn More
-            </Link>
-          </ul>
         </section>
 
         <section id="footer">
