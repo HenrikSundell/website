@@ -10,12 +10,17 @@
 
 .contact-block {
   margin-bottom: 2em;
-  font-size: 2em;
+  font-size: 1.2em;
+}
+
+.contact-block:hover {
+  transform: scale(1.1);
 }
 
 .contact-link {
   color: black;
 }
+
 .icon-text {
   padding-left: 3em;
 }
