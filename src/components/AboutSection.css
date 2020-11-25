@@ -18,3 +18,9 @@
 .flex-direction {
   flex-direction: row;
 }
+.about-link {
+  color: black;
+}
+.about-link:hover {
+  color: red;
+}
