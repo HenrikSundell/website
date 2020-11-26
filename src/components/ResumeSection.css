@@ -1,0 +1,32 @@
+.resume-box {
+  background-color: #ffff;
+  padding: 2em;
+  margin-top: 5em;
+  min-width: 22em;
+  max-width: 60em;
+  border-radius: 10px;
+  box-shadow: 2px 4px #888888;
+}
+
+h1 {
+  text-align: center;
+}
+.category {
+  margin-top: 2em;
+}
+.subtitle {
+  padding-bottom: 0.5em;
+}
+
+.job {
+  margin-top: 1em;
+  border-bottom: 1px solid black;
+  padding-bottom: 1em;
+}
+.job h3 {
+  padding-bottom: 0.5em;
+}
+
+.lang {
+  margin-left: 1em;
+}
