@@ -14,8 +14,7 @@ function ResumeSection() {
           </h3>
           <p>
             Worked as a software developer intern. I was responsible for
-            interfaces, worked mostly on our api which required changes because
-            project. I Also did various other backend related tasks. Some of my
+            interfaces, worked mostly on our api. I Also did various other backend related tasks. Some of my
             is open source and can be found on{" "}
             <a href="https://github.com/apluslms/a-plus">GitHub</a>.
           </p>
@@ -52,7 +51,7 @@ function ResumeSection() {
       <div className="category">
         <h2 className="subtitle">Languages</h2>
         <ul>
-          <li className="lang">English, full working proficiency</li>
+          <li className="lang">English, Full working proficiency</li>
           <li className="lang">Finnish, Native </li>
           <li className="lang">Swedish, Native</li>
         </ul>

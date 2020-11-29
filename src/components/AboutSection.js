@@ -19,11 +19,11 @@ function AboutSection({
       <h1 className="subtitle">Intro</h1>
       <p>
         I'm interested in both tech and business. Aiming to learn as much as
-        possible about both.
+        possible about both. I'm looking for a job for summer 2021 but. I'm open to other oportunities too.
       </p>
       <h1 className="subtitle">Experience</h1>
       <p>
-        I'have experience in web development from my summer job 2020. I worked
+        I have experience in web development from my summer job 2020. I worked
         at the computer science department at aalto developing educational tech.
         Mostly django backend and REST api related tasks. You can find some of
         the work on.{" "}
