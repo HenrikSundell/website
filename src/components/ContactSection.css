@@ -1,4 +1,4 @@
-.about-box {
+.contact-box {
   background-color: #ffff;
   padding: 2em;
   margin-top: 5em;
@@ -6,6 +6,7 @@
   max-width: 40em;
   border-radius: 10px;
   box-shadow: 2px 4px #888888;
+  font-size: 2em;
 }
 
 .contact-block {

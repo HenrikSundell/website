@@ -17,8 +17,8 @@ function InfoSection({
 }) {
   return (
     <>
-      <section id="sidebar">
-        <section id="intro">
+      <section className="sidebar">
+        <section className="intro">
           <img className="potrait" src="images/yo.png" alt="" />
 
           <header>
@@ -41,7 +41,7 @@ function InfoSection({
           </p>
         </section>
 
-        <section id="footer">
+        <section className="footer">
           <ul className="link-icons">
             <a className="link-icon" href="https://github.com/HenrikSundell">
               <AiFillGithub size="32px" />

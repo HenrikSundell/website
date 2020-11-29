@@ -8,8 +8,12 @@
   box-shadow: 2px 4px #888888;
 }
 
-h1 {
+.resume-box h1 {
   text-align: center;
+}
+
+.resume-box a {
+  color: black;
 }
 .category {
   margin-top: 2em;

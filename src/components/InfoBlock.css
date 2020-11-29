@@ -1,4 +1,4 @@
-#sidebar {
+.sidebar {
   margin-right: _size(section-spacing);
   min-width: 22em;
   width: 22em;
@@ -6,6 +6,9 @@
   padding-top: 5em;
   padding-right: 2em;
   margin-right: 10em;
+}
+.sidebar h2 {
+  margin-top: 1em;
 }
 
 .potrait {
@@ -36,7 +39,11 @@
 .link-icon {
   size: 20em;
 }
+.footer {
+  margin-top: 1em;
+}
 
 .copyright {
+  
   margin-top: 1em;
 }
